@@ -3,7 +3,8 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-import fastClick from 'fastclick'
+import fastClick from 'fastclick'         
+// 解决移动端300ms延迟问题，需要先安装fastClick
 // import './assets/styles/reset.css'
 import 'styles/reset.css'
 // import './assets/styles/border.css'

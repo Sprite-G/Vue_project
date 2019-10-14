@@ -23,7 +23,7 @@ export default {
 <style lang = 'stylus' scoped>
 /* @import '../../../assets/styles/variables.styl'; */
 @import '~styles/variables.styl';
-/* @代表src目录，在css中引用需要加~ */
+/* @代表src目录，在css中引用需要加~ （~@）*/
 .header {
   line-height: 0.86rem;
   display: flex;
