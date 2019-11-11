@@ -41,6 +41,7 @@ export default {
 <style lang="stylus" scoped>
   .wrapper
     // overflow hidden
+    touch-action: none
     width: 100%
     height: 0
     padding-bottom: (100/375)*100%
